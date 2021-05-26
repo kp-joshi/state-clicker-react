@@ -1,3 +1,5 @@
+Live link - https://kp-joshi.github.io/state-clicker-react/
+Once you get to number 7, button will disappear and you will win .
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
