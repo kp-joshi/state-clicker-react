@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/state-clicker-react/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/state-clicker-react/static/js/main.ed30e701.chunk.js",
+    "main.js.map": "/state-clicker-react/static/js/main.ed30e701.chunk.js.map",
+    "runtime-main.js": "/state-clicker-react/static/js/runtime-main.7fdcb24e.js",
+    "runtime-main.js.map": "/state-clicker-react/static/js/runtime-main.7fdcb24e.js.map",
+    "static/js/2.313838d9.chunk.js": "/state-clicker-react/static/js/2.313838d9.chunk.js",
+    "static/js/2.313838d9.chunk.js.map": "/state-clicker-react/static/js/2.313838d9.chunk.js.map",
+    "static/js/3.4ab4d6cf.chunk.js": "/state-clicker-react/static/js/3.4ab4d6cf.chunk.js",
+    "static/js/3.4ab4d6cf.chunk.js.map": "/state-clicker-react/static/js/3.4ab4d6cf.chunk.js.map",
+    "index.html": "/state-clicker-react/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/state-clicker-react/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.313838d9.chunk.js.LICENSE.txt": "/state-clicker-react/static/js/2.313838d9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7fdcb24e.js",
+    "static/js/2.313838d9.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.ed30e701.chunk.js"
+  ]
+}
